@@ -1,6 +1,6 @@
 {
   "name": "Image",
   "tagline": "",
-  "body": "# image\r\n\r\n![트와이스](https://raw.githubusercontent.com/mtinet/image/master/r3QqYGQ.jpg)\r\n",
+  "body": "# Image Server\r\n\r\n![트와이스](https://raw.githubusercontent.com/mtinet/ImageServer/master/r3QqYGQ.jpg)\r\n\r\n\r\n---\r\n관련 동영상을 보려면 아래 사진을 클릭하세요.  \r\n[![](https://raw.githubusercontent.com/mtinet/ImageServer/master/github_imageServer.png)](https://youtu.be/w8VC7C7nnGc)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
